@@ -1,0 +1,9 @@
+Lamborghini, Aventador, 1000000, Sport, 320
+Audi, R8, 400000, Sport, 250
+Mercedes, G63, 550000, SUV, 250
+RANGE ROVER, SV COUPE, 400000, SUV, 230
+ROLLS-ROYCE, CULLINAN, 1500000, SUV, 300
+Lamborghini, Urus, 800000, SUV, 300
+Mclaren, 720S, 1200000, Sport, 350
+Ferrari, 488, 500000, Sport, 280
+Bugatti, Chiron, 2000000, Sport, 400
